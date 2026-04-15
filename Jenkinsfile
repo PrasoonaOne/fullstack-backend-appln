@@ -59,7 +59,7 @@ EOF
                 --name fullstack-container \
                 -p 9090:9090 \
                 --env-file app.env \
-                fullstack-backend1
+                fullstack-backend
                 '''
             }
         }
